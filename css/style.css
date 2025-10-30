@@ -18,6 +18,7 @@
     line-height: 1.5;
     background-image: url('./images/bg-header-desktop.png'); background-repeat: no-repeat;
     background-position: 8vw top;
+    overflow-x: hidden;
   }
   .main{
     display: grid;
@@ -189,10 +190,10 @@
   }
   .contact{
     display: flex;
-    gap: 90px;
+    gap: 70px;
     background-color: hsl(201, 11%, 96%);
     margin-top: 100px;
-    width: 100vw;
+    width: 100%;
     padding: 40px 0 40px 0;
     justify-content: center;
   }
@@ -205,8 +206,6 @@
   }
   .contact img{
     width: 3.5%;
-    position: relative;
-    right: 70px;
   }
   
   .faq{
@@ -221,7 +220,6 @@
     text-decoration: none;
   }
   .icons{
-    margin-left: 220px;
     display: flex;
     gap: 10px;
     position: relative;
@@ -265,11 +263,9 @@
     .contact img{
       width: 35%;
       margin-bottom: 20px;
-      right: 0;
     }
     .icons{
       top: 0;
-      margin-left: 0;
       gap: 30px;
       top: 20px;
     }

@@ -57,6 +57,6 @@ Most if not all of website designs are created using css grid and flexbox, this 
 - https://www.w3schools.com - This is an amazing article which helped me with all the css grid and flexbox concepts and anything related with website  development. I'd recommend it to anyone still learning this concepts.
 
 ## Author
-- Frontend Mentor - [@nathanclass2-source](https://www.frontendmentor.io/profile/nathanclass2-source)
-- GitHub - [@nathanclass2-source](https://www.frontendmentor.io/profile/nathanclass2-source)
+- Frontend Mentor - [@Umarcss](https://www.frontendmentor.io/profile/Umarcss)
+- GitHub - [@Umarcss](https://www.frontendmentor.io/profile/Umarcss)
 
