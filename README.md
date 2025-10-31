@@ -49,9 +49,6 @@ This is my solution to the Clipboard-landing-Page on Frontend Mentor. Frontend M
 
 Most if not all of website designs are created using css grid and flexbox, this are the most useful and complex concepts of html and css that i would personally want to have first hand pro experience on. Therefore, those skills would allow me to develop clean code website designs. with this 
 
-### Useful resources
-- https://www.w3schools.com - This is an amazing article which helped me with all the css grid and flexbox concepts and anything related with website  development. I'd recommend it to anyone still learning this concepts.
-
 ## Author
 - Frontend Mentor - [@Umarcss](https://www.frontendmentor.io/profile/Umarcss)
 - GitHub - [@Umarcss](https://www.frontendmentor.io/profile/Umarcss)
