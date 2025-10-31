@@ -24,10 +24,6 @@ This is my solution to the Clipboard-landing-Page on Frontend Mentor. Frontend M
 
 ![Clipboard-landing-Page](./project_clipboard-landing-page_preview.png)
 
-### Links
-
-- Solution URL: https://github.com/nathan5792/Clipboard-Landing-Page.git
-- Live Site URL: https://nathan5792.github.io/Clipboard-Landing-Page/
 
 ## My process
 -Started by setting up the basic HTML structure with semantic elements.
